@@ -6,3 +6,4 @@ Log practice
 Diff practice
 More changes
 Split commit practice
+Commit message practice
