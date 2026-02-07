@@ -11,3 +11,4 @@ More commit message practice
 
 ## Notes
 - Updated on 2026-02-07
+Branch practice: update README
