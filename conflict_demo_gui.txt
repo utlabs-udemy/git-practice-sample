@@ -1,1 +1,1 @@
-version: main (gui)
+version: main + feature (gui)
