@@ -15,3 +15,4 @@ Branch practice: update README
 Push test line
 reflog rescue
 GUI diff practice
+branch demo from VSCode
